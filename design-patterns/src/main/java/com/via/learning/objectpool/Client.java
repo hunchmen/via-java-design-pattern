@@ -9,6 +9,7 @@ import javafx.geometry.Point2D;
  * @author va.alberto
  *
  */
+@SuppressWarnings("restriction")
 public class Client {
 
 	public static final ObjectPool<Bitmap> bitmapPool = new ObjectPool<Bitmap>(
