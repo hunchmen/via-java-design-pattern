@@ -3,17 +3,17 @@
 
 Creational Design Pattern
 	
-- Builder
-- Simple Factory
-- Factory Method
-- Prototype
-- Abstract Factory
-- Singleton
-- Object Pool
+- [x] Builder 
+- [x] Simple Factory
+- [x] Factory Method
+- [x] Prototype
+- [x] Abstract Factory
+- [x] Singleton
+- [x] Object Pool
 
 Structural Design Pattern
 
-- Adapter
+- [x] Adapter
 - Bridge
 - Decorator
 - Composite
